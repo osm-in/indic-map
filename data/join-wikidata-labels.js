@@ -3,7 +3,8 @@
 // OpenStreetMap India
 // https://wiki.openstreetmap.org/wiki/Map_internationalization_(India)
 // Tileset 
-// 'https://b.tiles.mapbox.com/v4/planemad.6mk61jbn/{z}/{x}/{y}.vector.pbf?access_token=pk.eyJ1IjoicGxhbmVtYWQiLCJhIjoiemdYSVVLRSJ9.g3lbg_eN0kztmsfIPxa9MQ'
+// 'https://b.tiles.mapbox.com/v4/planemad.6mk61jbn/{z}/{x}/{y}.vector.pbf?access_token=pk.eyJ1Ijoib3NtLWluIiwiYSI6ImNqcnVxMTNrNTJwbHc0M250anUyOW81MjgifQ.cZnvZEyWT5AzNeO3ajg5tg'
+
 
 //
 // Add localised labels from Wikidata to the GeoJSON data
